@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="31.938798" lon="118.790261">
+        <time>2021-05-31T13:20:52Z</time>
+      </trkpt>
+      <trkpt lat="31.938798" lon="118.790261">
+        <time>2021-05-31T13:20:57Z</time>
+      </trkpt>
+      <trkpt lat="31.939003" lon="118.790228">
+        <time>2021-05-31T13:21:02Z</time>
+      </trkpt>
+      <trkpt lat="31.93919" lon="118.790172">
+        <time>2021-05-31T13:21:07Z</time>
+      </trkpt>
+      <trkpt lat="31.939323" lon="118.790002">
+        <time>2021-05-31T13:21:12Z</time>
+      </trkpt>
+      <trkpt lat="31.939357" lon="118.789763">
+        <time>2021-05-31T13:21:17Z</time>
+      </trkpt>
+      <trkpt lat="31.939275" lon="118.789551">
+        <time>2021-05-31T13:21:22Z</time>
+      </trkpt>
+      <trkpt lat="31.93912" lon="118.789429">
+        <time>2021-05-31T13:21:27Z</time>
+      </trkpt>
+      <trkpt lat="31.938908" lon="118.789416">
+        <time>2021-05-31T13:21:32Z</time>
+      </trkpt>
+      <trkpt lat="31.938691" lon="118.78945">
+        <time>2021-05-31T13:21:37Z</time>
+      </trkpt>
+      <trkpt lat="31.938491" lon="118.789487">
+        <time>2021-05-31T13:21:42Z</time>
+      </trkpt>
+      <trkpt lat="31.938298" lon="118.78952">
+        <time>2021-05-31T13:21:47Z</time>
+      </trkpt>
+      <trkpt lat="31.938111" lon="118.789552">
+        <time>2021-05-31T13:21:52Z</time>
+      </trkpt>
+      <trkpt lat="31.937948" lon="118.789669">
+        <time>2021-05-31T13:21:57Z</time>
+      </trkpt>
+      <trkpt lat="31.937864" lon="118.789874">
+        <time>2021-05-31T13:22:02Z</time>
+      </trkpt>
+      <trkpt lat="31.937874" lon="118.790082">
+        <time>2021-05-31T13:22:07Z</time>
+      </trkpt>
+      <trkpt lat="31.937978" lon="118.790256">
+        <time>2021-05-31T13:22:12Z</time>
+      </trkpt>
+      <trkpt lat="31.938139" lon="118.79036">
+        <time>2021-05-31T13:22:17Z</time>
+      </trkpt>
+      <trkpt lat="31.938346" lon="118.790376">
+        <time>2021-05-31T13:22:22Z</time>
+      </trkpt>
+      <trkpt lat="31.938541" lon="118.790327">
+        <time>2021-05-31T13:22:27Z</time>
+      </trkpt>
+      <trkpt lat="31.938707" lon="118.79028">
+        <time>2021-05-31T13:22:39Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <trkseg>
+      <trkpt lat="43.85655865081962" lon="125.3075108988736">
+        <time>2019-09-30T09:41:11.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85646271042737" lon="125.307727350151">
+        <time>2019-09-30T09:41:17.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85612896757735" lon="125.30825685719664">
+        <time>2019-09-30T09:41:32.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85600438476574" lon="125.30840351102934">
+        <time>2019-09-30T09:41:38.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.855924371987335" lon="125.30851931575145">
+        <time>2019-09-30T09:41:41.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.855779551597536" lon="125.30874767579415">
+        <time>2019-09-30T09:41:47.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85562140993768" lon="125.3089874000128">
+        <time>2019-09-30T09:41:53.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85553433908223" lon="125.3091034755726">
+        <time>2019-09-30T09:41:56.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85533517734098" lon="125.3093618724932">
+        <time>2019-09-30T09:42:02.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85524925194285" lon="125.30944575323512">
+        <time>2019-09-30T09:42:05.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85508433689893" lon="125.30967817204396">
+        <time>2019-09-30T09:42:11.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85501030764521" lon="125.30978666955421">
+        <time>2019-09-30T09:42:14.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85490274208926" lon="125.30997606295766">
+        <time>2019-09-30T09:42:20.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.8548243596874" lon="125.31008997154429">
+        <time>2019-09-30T09:42:23.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85466408741884" lon="125.3103064263289">
+        <time>2019-09-30T09:42:29.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85459905455695" lon="125.31039354932304">
+        <time>2019-09-30T09:42:32.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85442356494171" lon="125.31061920404127">
+        <time>2019-09-30T09:42:38.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85422605275402" lon="125.31086461078002">
+        <time>2019-09-30T09:42:44.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.854055451909915" lon="125.31108809937999">
+        <time>2019-09-30T09:42:50.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85396515301962" lon="125.31118767026159">
+        <time>2019-09-30T09:42:53.422000Z</time>
+      </trkpt>
+      <trkpt lat="43.85380849300068" lon="125.31135867245781">
+        <time>2019-09-30T09:43:02.422000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
