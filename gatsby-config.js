@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 // eslint-disable-next-line no-undef
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/',
+  pathPrefix: zhujiawei.cn || '/',
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://zhujiawei.cn',
